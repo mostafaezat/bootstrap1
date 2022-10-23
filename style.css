@@ -1,0 +1,19 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.header {
+  background-image: url(/slide-1.jpg);
+  background-size: cover;
+}
+span {
+  color: orange;
+}
+.footer {
+  background-image: url(/contact-bg.jpg);
+}
+
+.form-control-plaintext {
+  border: 2px outset rgb(223, 204, 204);
+  color: white;
+}
